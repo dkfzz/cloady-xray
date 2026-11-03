@@ -1,0 +1,10 @@
+services:
+  xray:
+    image: docker.io/teddysun/xray:latest
+    ports:
+      - "3000"
+
+
+
+
+
